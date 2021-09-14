@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Bioscience firm Colossal plans to bring woolly mammoths back from extinction",
+            "description": "Genetics company Colossal secures funding to create an \"elephant-mammoth hybrid\", saying its technology has the potential to bring back ancient extinct species and restore damaged or lost ecosystems.",
+            "url": "http://www.abc.net.au/news/2021-09-14/woolly-mammoth-resurrection-colossal-bioscience/100459342",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/19798ce5ac9e4d21905204d3785fdae1?impolicy=wcms_crop_resize&cropH=1895&cropW=3369&xPos=47&yPos=0&width=862&height=485",
+            "publishedAt": "2021-09-14T00:31:04Z",
+            "content": "It is the elephant in the genomics room: can extinct species be resurrected? One bioscience firm insists they can, announcing its intent to use emerging technology to restore the woolly mammoth to th… [+2930 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "13-year-old is youngest student at Georgia Tech",
+            "description": "Caleb Anderson isn't your usual teen. He was reading at age 1 and doing fractions by 2. Now he's an aerospace engineering major at Georgia Tech instead of a seventh-grader. Mark Strassmann has his story.",
+            "url": "https://www.cbsnews.com/video/caleb-anderson-13-year-old-is-youngest-student-at-georgia-tech/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/09/13/59a9e6ad-bb7b-4a2f-bdf5-2a6461701612/thumbnail/1200x630/651cf87935a846fdbc0ac95a2bde93c5/0913-collegekid-straussman-792190-640x360.jpg",
+            "publishedAt": "2021-09-13T23:45:34+00:00",
+            "content": "Watch CBSN Live\r\nCopyright © 2021 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "The Equity crew riffs on the Intuit-Mailchimp news",
+            "description": "Hello and welcome back to Equity, TechCrunch’s venture-capital-focused podcast where we unpack the numbers behind the headlines. We are back! From this morning, I suppose. But the news cycle doesn’t wait for our publishing schedule, so the Equity crew got tog…",
+            "url": "https://techcrunch.com/2021/09/13/the-equity-crew-riffs-on-the-intuit-mailchimp-news/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/48839739717_8ffb77f638_o.jpeg?w=600",
+            "publishedAt": "2021-09-13T22:42:25Z",
+            "content": "Hello and welcome back to Equity, TechCrunchs venture-capital-focused podcast where we unpack the numbers behind the headlines.\r\nWe are back! From this morning, I suppose. But the news cycle doesn’t … [+770 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm",
+            "title": "Daily Crunch: Apple urges users to update all devices after hacktivists reveal zero-day flaw",
+            "description": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2021/09/13/daily-crunch-61/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/nso-iphone-hack.jpg?w=711",
+            "publishedAt": "2021-09-13T22:10:37Z",
+            "content": "Hello and welcome back to Daily Crunch for September 13, 2021. This is Alex and I am back! A big thanks to Greg for taking over last week while I was on staycation. It is lovely to be back with you a… [+6653 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Paul Smith",
+            "title": "Tech unicorn SiteMinder raises $100 million, silent on IPO",
+            "description": "Billion-dollar valued hotel software platform SiteMinder has banked a big-money funding round, with Fidelity joining its roster of heavyweight backers as an IPO looms.",
+            "url": "http://www.afr.com/technology/tech-unicorn-bides-its-time-with-ipo-after-raising-100m-20210909-p58qbg",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.9721%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1419%2C$y_346/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/9f500cf346ff6c88ac0aca761d4bbdcdfaf20abd",
+            "publishedAt": "2021-09-13T22:00:00Z",
+            "content": "Mr Narayan said raising capital without being able to travel and meet investors was a new challenge; however, most of the backers were returning investors with whom he had spoken regularly throughout… [+2593 chars]"
+        },
+        {
+            "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            "author": null,
+            "title": "Intuit to Acquire Mailchimp",
+            "description": "Combination Accelerates Intuit’s Vision to Provide an End-to-End Customer Growth Platform for Small and Mid-Market Businesses Intuit (Nasdaq: INTU), the global technology platform that makes TurboTax , QuickBooks , Mint , and Credit Karma , today announced th…",
+            "url": "https://www.investors.intuit.com/news/news-details/2021/Intuit-to-Acquire-Mailchimp/default.aspx",
+            "urlToImage": "https://s23.q4cdn.com/935127502/files/design/meta-images/Inuit_EcosystemCK_1200x627.png",
+            "publishedAt": "2021-09-13T21:07:22.1118789Z",
+            "content": "Combination Accelerates Intuits Vision to Provide an End-to-End Customer Growth Platform for Small and Mid-Market Businesses\r\n MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--\r\nIntuit (Nasdaq: INTU), the glo… [+11512 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Lance Lambert",
+            "title": "Why you should remain bullish on Big Tech",
+            "description": "To find companies on a high growth trajectory, Fortune reached out to Nasdaq to access their Patent Value Estimates data. Here's what we found.",
+            "url": "https://fortune.com/2021/09/13/bull-case-for-big-tech-stocks-faamg-nvidia-qualcomm-samsung-shares/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2021/09/enlkj-total-value-of-patents-held-by-faamg-companies-1-1.png?resize=1200,600",
+            "publishedAt": "2021-09-13T21:02:06Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cyber arms dealer exploits new Apple iPhone software vulnerability; affects most versions - researchers",
+            "description": "A cyber surveillance company based in Israel has developed a tool that can break into Apple <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> iPhones with a never-before-seen technique used at least since February, internet secur…",
+            "url": "https://www.reuters.com/technology/cyber-arms-dealer-exploits-new-apple-iphone-software-vulnerability-affects-most-2021-09-13/",
+            "urlToImage": "https://www.reuters.com/resizer/EfhQ3lyd_ii9Ea7umADd7ucmk5k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RLQCZQXSYZNO7D6WMO7ZU5JG2Y.jpg",
+            "publishedAt": "2021-09-13T19:32:00Z",
+            "content": "A man talks on his iPhone at a mobile phone store in New Delhi, India, July 27, 2016. REUTERS/Adnan AbidiSept 13 (Reuters) - A cyber surveillance company based in Israel has developed a tool that can… [+1439 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Tom Burton, Jessica Sier",
+            "title": "COVID vaccine passport Australia: Tech industry doubts vaccine passports are on track",
+            "description": "The government claims vaccine passports can be added to existing check-in apps, but experts warned  many problems with data sharing are still  unsolved.",
+            "url": "http://www.afr.com/technology/tech-industry-doubts-vaccine-passports-are-on-track-20210913-p58r43",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.5298%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_109/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/dfcc47e8f7aa00816a9400edafef3ac83e4d71f2",
+            "publishedAt": "2021-09-13T19:00:00Z",
+            "content": "Each of the states and territories are different with their requirements. They all have different apps and different health regulations, so were upgrading and building secure vaccination certificates… [+7291 chars]"
+        },
+        {
+            "source": {
+                "id": "les-echos",
+                "name": "Les Echos"
+            },
+            "author": "Catherine Ducruet",
+            "title": "Vaccin Covid : Valneva sous le choc de l'annulation du contrat britannique",
+            "description": "La biotech franco-autrichienne avait jusque-là réalisé un sans-faute, soutenue par les autorités britanniques. A la veille de la publication des ultimes résultats cliniques, 1,4 milliard d'euros de ventes potentielles partent en fumée.",
+            "url": "https://www.lesechos.fr/industrie-services/pharmacie-sante/vaccin-covid-valneva-sous-le-choc-de-lannulation-du-contrat-britannique-1345730",
+            "urlToImage": "https://media.lesechos.com/api/v1/images/view/613f77873e45464e3c5eaca6/1280x720/0611702594045-web-tete.jpg",
+            "publishedAt": "2021-09-13T16:06:35Z",
+            "content": "Le coup est venu d'outre-Manche, et il est rude pour la biotech franco-autrichienne Valneva. La commande ferme de 100 millions de doses de son vaccin contre le Covid-19, dont on attend les résultats … [+496 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Raimund Schesswendter",
+            "title": "Super-Molekül könnte mit 5 elektrischen Zuständen die Halbleiter revolutionieren",
+            "description": "Neue Moleküle könnten die Halbleitertechnik revolutionieren und für weitere Quantensprünge bei der Leistung vo",
+            "url": "https://t3n.de/news/chips-halbleiter-molekuel-fuenf-zustaende-revolution-1404060/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2021/09/shutterstock-1789871549.jpg",
+            "publishedAt": "2021-09-13T14:30:00Z",
+            "content": "Hinweis: Wir haben in diesem Artikel Provisions-Links verwendet und sie durch \"*\" gekennzeichnet. Erfolgt über diese Links eine Bestellung, erhält t3n.de eine Provision.\r\nNeue Moleküle könnten die Ha… [+3436 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Julien Briot, Gilles Hilary",
+            "title": "« Face aux nouvelles formes de concurrence, les banques vont devoir évoluer »",
+            "description": "Les deux experts bancaires Julien Briot et Gilles Hilary expliquent, dans une tribune au « Monde », qu’avec les nouvelles technologies numériques et le recours aux algorithmes, les banques commerciales disposent d’une ressource très importante : les données s…",
+            "url": "https://www.lemonde.fr/idees/article/2021/09/13/face-aux-nouvelles-formes-de-concurrence-les-banques-vont-devoir-evoluer_6094495_3232.html",
+            "urlToImage": "https://img.lemde.fr/2021/09/09/500/0/6048/3024/1440/720/60/0/6b5002a_419831031-pns-6481895.jpg",
+            "publishedAt": "2021-09-13T11:00:15Z",
+            "content": "Tribune. Lévolution de la technologie bancaire peut sembler être un sujet aussi technique quaride. Pourtant, si on ny prête pas assez dattention, cela pourrait représenter un sujet de préoccupation i… [+2426 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Fiona Carruthers",
+            "title": "Digital passenger declaration includes vaccination status",
+            "description": "Reconnecting Australia to the world is coming closer with new technology.",
+            "url": "http://www.afr.com/life-and-luxury/travel/digital-passenger-declaration-includes-traveller-s-vaccination-status-20210913-p58rc3",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1907%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/1ebb2f814cad66d157964c31791e3c0230fa0d1c",
+            "publishedAt": "2021-09-13T09:02:39Z",
+            "content": "Incoming passengers to Australia will soon be filling out a digital passenger declaration which specifies their vaccination status, after the government awarded Accenture a reported $75 million-plus … [+1005 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": null,
+            "title": "Planet-eating stars can be identified by their telltale chemistry",
+            "description": "Stars that have eaten their planets are unpromising places to look for alien life, and now there is a technique that can help quickly identify such stars from their chemistry",
+            "url": "https://www.newscientist.com/article/2289901-planet-eating-stars-can-be-identified-by-their-telltale-chemistry/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2021/09/13112024/PRI_198596106.jpg",
+            "publishedAt": "2021-09-13T00:00:00Z",
+            "content": "By Jason Arunn Murugesu\r\nArtist’s impression of an exoplanet in orbit around a binary star\r\nMasPix/Alamy\r\nAstronomers could boost the efficiency of their search for alien worlds that might harbour li… [+403 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Anna Moreau et Elisa Bellanger",
+            "title": "Vidéo. Bientôt des villes fournaises ? Pourquoi tout n’est pas perdu",
+            "description": "Vidéo - Planter des arbres, repeindre les toits en blanc, arroser le goudron… Un simulateur de Météo-France permet d’évaluer les techniques pour limiter l’impact des canicules sur nos villes, où vivent près de huit Français sur dix.",
+            "url": "https://www.lemonde.fr/climat/video/2021/08/22/bientot-des-villes-fournaises-pourquoi-tout-n-est-pas-perdu_6092048_1652612.html",
+            "urlToImage": "https://img.lemde.fr/2021/08/12/39/0/1280/640/1440/720/60/0/f9689b2_76530721-capture-d-e-cran-2021-08-12-a-16-30-05.png",
+            "publishedAt": "2021-08-22T08:41:48Z",
+            "content": "Avec le réchauffement climatique, il fera encore plus chaud quailleurs en ville. En cause : leffet d« îlot de chaleur urbain », identifié il y a deux cent ans à Londres : la texture même des villes (… [+1202 chars]"
+        },
+        {
+            "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            "author": null,
+            "title": "Ventilation can make schools and offices safe from covid-19 – but how?",
+            "description": "Maximising airflow in public spaces is crucial to cut covid-19 transmission, but questions remain about what technology to use and how effective it needs to be",
+            "url": "https://www.newscientist.com/article/mg25133484-200-ventilation-can-make-schools-and-offices-safe-from-covid-19-but-how/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2021/08/18201325/pri195123936-5.jpg",
+            "publishedAt": "2021-08-18T00:00:00Z",
+            "content": "By Graham Lawton\r\nFirst day back at Tustin Ranch Elementary School in California on 11 August\r\nPaul Bersebach/MediaNews Group/Orange County Register via Getty Images\r\nAS THE nights begin to draw in a… [+486 chars]"
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "MSNBC",
+            "title": "China upholds Canadian's death sentence as Huawei case looms",
+            "description": "A Chinese court rejected a Canadian appeal of a death sentence in an effort to step up pressure on Canada to release executive of tech giant Huawei.",
+            "url": "https://www.nbcnews.com/news/world/china-upholds-canadian-s-death-sentence-huawei-case-looms-n1276392",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_32/3497921/210810-robert_schellenberg-mc-8292.JPG",
+            "publishedAt": "2021-08-10T09:39:49Z",
+            "content": "BEIJING A Chinese court on Tuesday rejected a Canadian drug convicts appeal of a death sentence in what appeared to be an effort to step up pressure on Canada to release a detained executive of tech … [+3654 chars]"
+        },
+        {
+            "source": {
+                "id": "spiegel-online",
+                "name": "Spiegel Online"
+            },
+            "author": "Spiegel Online",
+            "title": "Neuer Quds-Kommandeur Ghaani: Technokrat des Terrors",
+            "description": "Der iranische Topgeneral Qasem Soleimani war keine 24 Stunden tot, da präsentierte Iran seinen Nachfolger: Ismail Ghaani. Warum der die Schattenkrieger der Quds-Brigade anders führen wird - ihr Ziel aber das gleiche bleibt.",
+            "url": "http://www.spiegel.de/politik/ausland/iran-ismail-ghaani-ist-neuer-chef-der-quds-brigade-a-1303791.html",
+            "urlToImage": "https://cdn1.spiegel.de/images/image-1503554-860_poster_16x9-uduu-1503554.jpg",
+            "publishedAt": "2020-01-07T18:09:00Z",
+            "content": "Dienstag, 07.01.2020  \r\n19:09 Uhr\r\nDer Mann, den das iranische Staatsfernsehen am Montag zeigt, trägt eine schlichte olivgrüne Uniform, er weint, kniet sich nieder - und küsst den vor ihm aufgebarten… [+4031 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "王博源",
+            "title": "TechCrunch 中文版的 2019 不严肃年度好物推荐 | TechCrunch 中文版",
+            "description": "https://www.youtube.com/watch?v=EavTye99eZA\r\n\r\n \r\n\r\n2019年就要过去了，各位觉得这一年过得怎么样呢？（崔健曰：凑合！）今年我们再次向TechCrunch中英文作者、编辑、翻译发出邀请，整理2019年对他们有积极影响的身外之物，顺便托物言志谈谈自己的这一年。虽然我们是科技创投媒体，不过推荐的东西不一定和科技有关，也没有任何厂商业配置入，请大家放心。\r\n鹏辉，TechCrunch 中文版作者\r\n死亡搁浅\r\n\r\n\r\n\r\n今年争议最大的游戏。有人觉得这是乏味的步行…",
+            "url": "https://techcrunch.cn/2019/12/27/techcrunchcns-favorite-things-of-2019/",
+            "urlToImage": "https://files.techcrunch.cn/2018/12/techcrunch-fav.png?w=1200",
+            "publishedAt": "2019-12-27T18:58:22Z",
+            "content": "2019 TechCrunch 2019 \r\nTechCrunch \r\nBT Fus Ro Dahhhh \r\nBose QC20i\r\nAirPods Pro QC20i AirPods Pro QC20i QC20i\r\n·Erik Hagerman\r\n2018 5G telegram rss slack ···\r\n 20192020 \r\nRitaTechCrunch \r\n by \r\napp \r\n… [+852 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "Brian Heater",
+            "title": "盘点 2019 年消失的明星创业公司 | TechCrunch 中文版",
+            "description": "创业公司会因为各种原因而失败，但有一点不会改变：创业是极其困难的事。想要创办一家成功的公司，需要的不仅仅是热情，以及找到合适的人才（尽管很明显这两点很重要）。成功的创业者需要在许许多多细节上做到完美。\r\n\r\n粗略地回顾下今年的创业公司，可以发现并没有什么公司能带来像去年Theranos那样的轰动性故事。Theranos的故事被写成了畅销书，改编成了纪录片，相关电影也即将上映。不过某些公司，例如MoviePass，可能已经逐渐接近。\r\n\r\n通常来说，每看到一家Theranos，我们同时也会看到数十位辛勤创业者的故事…",
+            "url": "https://techcrunch.cn/2019/12/27/startups-lost-in-2019/",
+            "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-829632570.jpg?w=1200",
+            "publishedAt": "2019-12-27T16:46:58Z",
+            "content": "Theranos Theranos MoviePass\r\n Theranos\r\n 2019 \r\nAnki2010 2019 \r\n1.82 \r\n2013 WWDC Overdrive iPhone \r\n3 Anki CozmoAnki 2018 Vector 2019 4 Anki 150 “”Cozmo \r\nChariot2014 2019 \r\n300 2017 \r\nChariot “” \r\n … [+1085 chars]"
+        }
+    ]
+}
